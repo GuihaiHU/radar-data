@@ -2,15 +2,17 @@
 
 **这一页不给结论。** 它列出本次采集到的问题帖和信号；判断由研究者做，不由这一页做（2026-09-26 的 A+C 决定：引擎只负责采集）。评分标准里的付费意愿、可交付性、竞争、可验证性在调研前都是 `unknown`，按 [SCORING.md](../SCORING.md) 记 0 分而不是猜。
 
-- 运行时间：2026-10-16T17:30:01Z → 2026-10-16T17:30:12Z
+- 运行时间：2026-10-17T01:30:36Z → 2026-10-17T01:30:39Z
 - 采集窗口：最近 30 天
-- 抓取命中：12 条；其中新入库：1 条
+- 抓取命中：0 条；其中新入库：0 条
 - 窗口内聚类数：68（全库累计 233 组，含已关闭来源的历史信号）
 
 ## 问题帖（近 30 天窗口内，来源 Ask HN）
 
 ### 1. Ask HN: Any good polished email alternative to Proton Mail?
 - 标题模式 `alternatives_to` · 2026-10-15 · [原帖](https://news.ycombinator.com/item?id=50109923)
+
+- ⚠️ 此对象已在 rejected.md 里：**Proton Mail（加密邮箱）**，2026-10-17（首次筛于 09-27，未记录，导致今天重做了一遍） 被 **G2 + 第 6 步的"够窄"** 挡掉——先看上次的理由是否仍然成立
 
 ### 2. Ask HN: Anyone used SERPSpur as an alternative to Ahrefs and SEmrush?
 - 标题模式 `alternatives_to` · 2026-10-15 · [原帖](https://news.ycombinator.com/item?id=50099154)
